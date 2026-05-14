@@ -1,6 +1,5 @@
-## [セキュリティ用語解説](https://www.nri-secure.co.jp/glossary/ctf)
-## [セキュリティ講義入門コースCTF](https://www.lac.co.jp/education/course/security_competition.html)
-**CTF（Capture The Flag）** は、情報セキュリティに関する知識や技術を競う競技である。参加者は与えられた問題をとき、その答えとして隠された**「Flag」**と呼ばれる文字列を見つけ出すことで得点を獲得する。
+## [CTFおすすめ一覧](https://qiita.com/GIFCat/items/9252a1fdea26c82ae908)
+**CTF（Capture The Flag）** は、情報セキュリティに関する知識や技術を競う競技である。参加者は与えられた問題をとき、その答えとして隠された**「Flag」** と呼ばれる文字列を見つけ出すことで得点を獲得する。
 もともとは、セキュリティ研究者やハッカーコミュニティの間で行われていたが、現在では企業研修や大学教育、初心者向けイベントなど幅広い場面で活用されている。
 
 ### CTFの代表的な形式
